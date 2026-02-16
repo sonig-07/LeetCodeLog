@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/sonig-07/LeetCodeLog/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sonig-07/LeetCodeLog/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonig-07/LeetCodeLog/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonig-07/LeetCodeLog/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0015-3sum](https://github.com/sonig-07/LeetCodeLog/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/sonig-07/LeetCodeLog/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sonig-07/LeetCodeLog/tree/master/0242-valid-anagram) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonig-07/LeetCodeLog/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonig-07/LeetCodeLog/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sonig-07/LeetCodeLog/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
