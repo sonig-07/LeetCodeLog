@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sonig-07/LeetCodeLog/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonig-07/LeetCodeLog/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sonig-07/LeetCodeLog/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sonig-07/LeetCodeLog/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sonig-07/LeetCodeLog/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sonig-07/LeetCodeLog/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sonig-07/LeetCodeLog/tree/master/0704-binary-search) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0015-3sum](https://github.com/sonig-07/LeetCodeLog/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/sonig-07/LeetCodeLog/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/sonig-07/LeetCodeLog/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sonig-07/LeetCodeLog/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sonig-07/LeetCodeLog/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/sonig-07/LeetCodeLog/tree/master/0541-reverse-string-ii) |
@@ -62,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sonig-07/LeetCodeLog/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonig-07/LeetCodeLog/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Greedy
 |  |
