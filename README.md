@@ -65,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sonig-07/LeetCodeLog/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sonig-07/LeetCodeLog/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonig-07/LeetCodeLog/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Greedy
