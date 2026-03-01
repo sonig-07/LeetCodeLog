@@ -23,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sonig-07/LeetCodeLog/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sonig-07/LeetCodeLog/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sonig-07/LeetCodeLog/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sonig-07/LeetCodeLog/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sonig-07/LeetCodeLog/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -52,6 +53,7 @@
 | [0015-3sum](https://github.com/sonig-07/LeetCodeLog/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/sonig-07/LeetCodeLog/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/sonig-07/LeetCodeLog/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sonig-07/LeetCodeLog/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sonig-07/LeetCodeLog/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sonig-07/LeetCodeLog/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/sonig-07/LeetCodeLog/tree/master/0541-reverse-string-ii) |
@@ -67,6 +69,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/sonig-07/LeetCodeLog/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sonig-07/LeetCodeLog/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sonig-07/LeetCodeLog/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonig-07/LeetCodeLog/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Greedy
 |  |
