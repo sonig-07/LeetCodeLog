@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonig-07/LeetCodeLog/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/sonig-07/LeetCodeLog/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0009-palindrome-number](https://github.com/sonig-07/LeetCodeLog/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sonig-07/LeetCodeLog/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sonig-07/LeetCodeLog/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/sonig-07/LeetCodeLog/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonig-07/LeetCodeLog/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Greedy
 |  |
@@ -96,4 +98,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sonig-07/LeetCodeLog/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sonig-07/LeetCodeLog/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sonig-07/LeetCodeLog/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
