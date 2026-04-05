@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/sonig-07/LeetCodeLog/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sonig-07/LeetCodeLog/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sonig-07/LeetCodeLog/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/sonig-07/LeetCodeLog/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonig-07/LeetCodeLog/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sonig-07/LeetCodeLog/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sonig-07/LeetCodeLog/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sonig-07/LeetCodeLog/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/sonig-07/LeetCodeLog/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sonig-07/LeetCodeLog/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sonig-07/LeetCodeLog/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sonig-07/LeetCodeLog/tree/master/0202-happy-number) |
